@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Local runtime data
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+
+# Streamlit local secrets
+.streamlit/secrets.toml
